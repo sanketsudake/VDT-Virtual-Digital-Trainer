@@ -24,3 +24,7 @@ Screenshots :-
 
 [![endorse](http://api.coderwall.com/tripples/endorsecount.png)](http://coderwall.com/tripples)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tripples/vdt-virtual-digital-trainer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
